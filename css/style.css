@@ -145,9 +145,9 @@ img {
     MOBILE
 *************************/
 
-  @media screen and (max-width: 370px) {
+  @media screen and (max-width: 480px) {
     .container{
-        width: 300px;
+        width: 400px;
     }
 
     .row{
