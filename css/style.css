@@ -139,3 +139,22 @@ img {
         width: 680px;
     }
   }
+
+/************************
+    SOLUZIONE RESPONSIVE
+    MOBILE
+*************************/
+
+  @media screen and (max-width: 370px) {
+    .container{
+        width: 300px;
+    }
+
+    .row{
+        flex-wrap: wrap;
+    }
+    
+    .lessons .col, .steps .col, .why-us .col-left, .why-us .col-right {
+        width: 100%;
+    }
+  }
