@@ -160,7 +160,7 @@ img {
         flex-wrap: wrap;
     }
     
-    .lessons .col, .steps .col, .why-us .col-left, .why-us .col-right {
+    .row .col {
         width: 100%;
     }
   }
