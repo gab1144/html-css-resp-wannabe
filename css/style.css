@@ -163,4 +163,18 @@ img {
     .row .col {
         width: 100%;
     }
+
+    .row .col:last-child{
+        margin-bottom: 0;
+    }
+
+    .why-us {
+        padding: 3rem 0;
+        background-color: rgb(34, 34, 34);
+        margin-bottom: 0;
+    }
+
+    .steps {
+        margin-bottom: 0;
+    }
   }
